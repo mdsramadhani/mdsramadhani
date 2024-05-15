@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Rama
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+👋 Hi, I’m Rama
 
 
 <!---
